@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xF6CCIaBi7yxpTnAhHPCBidq3QPCgy3G658S50UJdaDKVLbtyuBLzwjoCS4RMGcvqA5FH8x257uUQc3ojDIOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oriet\\source\\repos\\inmobiliaria\\inmobiliaria_API\\inmobiliaria_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oriet\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\oriet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\oriet\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\oriet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\oriet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\oriet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\oriet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
